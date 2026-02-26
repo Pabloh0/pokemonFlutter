@@ -1,13 +1,7 @@
 # 🧠 Pokémon Flutter App
 
-Una **Pokédex interactiva** desarrollada en **Flutter** que muestra una lista de Pokémon con sus datos usando APIs públicas.  
+Una **Pokédex interactiva** desarrollada en **Flutter** que muestra una lista de Pokémon con sus datos usando un backend propio.  
 Perfecta para aprender Flutter, manejo de APIs, navegación y diseño responsivo. 🚀
-
----
-
-## 📸 Capturas
-
-*(Agrega aquí capturas reales de tu app para que se vea en acción)*
 
 ---
 
@@ -28,7 +22,7 @@ Esta app es una Pokédex 🧬 hecha con **Flutter y Dart**, diseñada para:
 
 - **Flutter**
 - **Dart**
-- Gestión de estado (si usas `Provider`/`Riverpod`/etc)
+- Gestión de estado con Provider
 - Consumo de API REST
 
 ---
