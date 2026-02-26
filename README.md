@@ -1,3 +1,51 @@
-# pokemon_app
+# 🧠 Pokémon Flutter App
 
-A new Flutter project.
+Una **Pokédex interactiva** desarrollada en **Flutter** que muestra una lista de Pokémon con sus datos usando APIs públicas.  
+Perfecta para aprender Flutter, manejo de APIs, navegación y diseño responsivo. 🚀
+
+---
+
+## 📸 Capturas
+
+*(Agrega aquí capturas reales de tu app para que se vea en acción)*
+
+---
+
+## 🧾 ¿Qué es este proyecto?
+
+Esta app es una Pokédex 🧬 hecha con **Flutter y Dart**, diseñada para:
+
+- Mostrar una lista de Pokémon con imágenes.
+- Detallar información de cada Pokémon.
+- Practicar consumo de APIs REST.
+- Aprender Flutter básico y UI móvil.
+
+---
+
+## 🚀 Tecnologías usadas
+
+🛠️ Construido con:
+
+- **Flutter**
+- **Dart**
+- Gestión de estado (si usas `Provider`/`Riverpod`/etc)
+- Consumo de API REST
+
+---
+
+## 🏁 Cómo ejecutar el proyecto
+
+Sigue estos pasos para correrlo en tu máquina:
+
+```bash
+# Clona el repositorio
+git clone https://github.com/Pabloh0/pokemonFlutter.git
+
+# Entra a la carpeta del proyecto
+cd pokemonFlutter
+
+# Instala dependencias
+flutter pub get
+
+# Ejecuta la app
+flutter run
